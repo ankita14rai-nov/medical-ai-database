@@ -69,7 +69,7 @@ FALSE
 INSERT INTO predictions
 (
 consultation_id,
-disease_name,
+diseases_name,
 confidence
 )
 
